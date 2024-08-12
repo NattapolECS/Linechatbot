@@ -26,17 +26,14 @@ thai_months = ['มกราคม', 'กุมภาพันธ์', 'มี�
 thai_days = ['วันอาทิตย์', 'วันจันทร์', 'วันอังคาร', 'วันพุธ', 'วันพฤหัสบดี', 'วันศุกร์', 'วันเสาร์']
 
 #--------------Tunbot_Love----------------------------
-channel_access_token = "0p39NmPjuuEaDRddiTTWtCyUdZncVXfI6SsNArra2qlg2PLAQ2velnxhTMM6RL4x3P29W3zVKlOdVAAGZyKF6ekKnfcbn+cKLiyIJNW96Mkv8VWxpnegBgYWZobN/p9ao1THi1koRkYicq8ggqBBIQdB04t89/1O/w1cDnyilFU="
-channel_secret = "6844f6a15a05d3efdf7eee7d5452e151"
-user_id = "U1d26bc43a390501b1fc01dcb0cad1a45"
+channel_access_token = "---------------------------------"
+channel_secret = "------------------------------"
+user_id = "------------"
 #----------------------------------------------------------------
-#-------------- test1ch ----------------------------------------------------
-#channel_access_token = "PJZ0qwoUx/1izGyz0d1NpF1TLQE/Su0XlJDeLrY70g7TjNcsTrmFHKXU/mBdo4hbVrp3c6ydGA7jKf3clSFCn1QEOekEhm+Nr5CQ3jjpylANCNzoPAragZcSeelMPgF0V8EP17WB0o6uf+PENA/zpAdB04t89/1O/w1cDnyilFU="
-#channel_secret = "bb59529a61e359438cea6d929683dea3"
-#user_id = "U2bad1da207d8643a2834b1a209248fad"
+
 #------------------------------------------------------------------------
 from wit import Wit
-wit_access_token = "U2JV5MXS22VSTCPLI4EL5OHUA2IPZTLF"
+wit_access_token = "-----------------------------------F"
 client = Wit(wit_access_token)
 
 line_bot_api = LineBotApi(channel_access_token)
